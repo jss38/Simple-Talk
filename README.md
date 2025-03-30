@@ -77,11 +77,3 @@ The application uses four threads:
 4. Network input thread - receives messages from the remote machine
 
 Data is passed between threads using a thread-safe list implementation.
-
-## License
-
-This project is provided as-is with no explicit license.
-
-## Author
-
-This project was created as a programming exercise in network communication and multi-threaded application design.
